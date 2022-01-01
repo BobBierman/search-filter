@@ -1,0 +1,45 @@
+{
+  "name": "search-filter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@aws-amplify/cli": "^4.41.0",
+    "@aws-amplify/api": "^3.2.7",
+    "@aws-amplify/auth": "^3.4.6",
+    "@aws-amplify/core": "^3.6.0",
+    "amazon-cognito-identity-js": "^4.5.3",
+    "aws-amplify-vue": "^2.1.2",
+    "axios": "^0.20.0",
+    "bootstrap-vue": "^2.17.3",
+    "core-js": "^3.6.5",
+    "vue": "^2.6.11",
+    "vue-burger-menu": "^2.0.5",
+    "vue-js-modal": "^2.0.0-rc.6",
+    "vue-loading-button": "^0.2.0",
+    "vue-progress-path": "0.0.2",
+    "vue-router": "^3.4.6",
+    "vue-simple-accordion": "^0.1.0",
+    "vuex": "^3.5.1",
+    "vuex-localstorage": "^1.0.0"
+  },
+  "devDependencies": {
+    "@aws-sdk/client-cognito-identity": "^1.0.0-rc.4",
+    "@vue/cli-plugin-babel": "^4.5.7",
+    "@vue/cli-plugin-eslint": "^4.5.7",
+    "@vue/cli-service": "^4.5.7",
+    "@vue/cli": "^4.5.7",
+    "@vue/eslint-config-airbnb": "^5.0.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
