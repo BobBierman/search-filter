@@ -1,5 +1,10 @@
 # search-filter
 
+## Project repo
+```
+git@github.com:BobBierman/search-filter.git
+```
+ 
 ## Project setup
 ```
 npm install
